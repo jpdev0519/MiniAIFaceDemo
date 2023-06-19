@@ -1,0 +1,9 @@
+﻿  MiniAIFaceDemo.cpp
+  MiniAIFaceDemoDlg.cpp
+G:\My_Project\demo\miniAIfaceDemo\ArcFaceDemo\MiniAIFaceDemoDlg.cpp(186,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\My_Project\demo\miniAIfaceDemo\ArcFaceDemo\MiniAIFaceDemoDlg.cpp(187,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 616 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ArcFaceDemo.vcxproj -> G:\My_Project\demo\miniAIfaceDemo\x64\Release\ArcFaceDemo.exe

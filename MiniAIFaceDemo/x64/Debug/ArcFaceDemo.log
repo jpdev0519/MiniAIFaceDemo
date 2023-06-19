@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ArcFaceDemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  MiniAIFaceDemo.cpp
+  MiniAIFaceDemoDlg.cpp
+G:\My_Project\demo\miniAIfaceDemo\ArcFaceDemo\MiniAIFaceDemoDlg.cpp(186,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\My_Project\demo\miniAIfaceDemo\ArcFaceDemo\MiniAIFaceDemoDlg.cpp(187,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ArcFaceEngine.cpp
+  Generating Code...
+  ArcFaceDemo.vcxproj -> G:\My_Project\demo\miniAIfaceDemo\x64\Debug\MiniAIFaceDemo.exe
